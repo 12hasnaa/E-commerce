@@ -1,0 +1,12 @@
+.data {
+    height: 100%!important;
+    /* background-color: red; */
+}
+
+.item{
+    height: 100% !important;
+}
+
+.mb{
+    margin-bottom: 5.5rem !important;
+}
